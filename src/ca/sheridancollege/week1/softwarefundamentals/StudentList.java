@@ -25,6 +25,7 @@ public class StudentList {
            System.out.println(s.getName());
            System.out.println("hey !! What's up ?");
             System.out.println("this is fundamentals of software design and development");
+            System.out.println("hello !! i have made some changes !! Can u figure those out ?? ");
            
        }
         
